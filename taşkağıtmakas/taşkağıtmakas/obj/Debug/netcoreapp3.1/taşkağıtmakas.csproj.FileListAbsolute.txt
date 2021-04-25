@@ -1,0 +1,13 @@
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\bin\Debug\netcoreapp3.1\taşkağıtmakas.exe
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\bin\Debug\netcoreapp3.1\taşkağıtmakas.deps.json
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\bin\Debug\netcoreapp3.1\taşkağıtmakas.runtimeconfig.json
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\bin\Debug\netcoreapp3.1\taşkağıtmakas.runtimeconfig.dev.json
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\bin\Debug\netcoreapp3.1\taşkağıtmakas.dll
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\bin\Debug\netcoreapp3.1\taşkağıtmakas.pdb
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.csprojAssemblyReference.cache
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.AssemblyInfoInputs.cache
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.AssemblyInfo.cs
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.csproj.CoreCompileInputs.cache
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.dll
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.pdb
+C:\Users\Yanık\source\repos\taşkağıtmakas\taşkağıtmakas\obj\Debug\netcoreapp3.1\taşkağıtmakas.genruntimeconfig.cache
